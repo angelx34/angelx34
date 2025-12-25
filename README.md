@@ -6,7 +6,7 @@ My goal is to apply computational methods to health research, especially in geno
 ---
 
 ### 🔭 I’m currently working on
-- A **to-do list productivity app** to improve my full-stack development skill
+
 
 ### 🌱 I’m currently learning
 - **Machine Learning for bioinformatics** (scikit-learn, PyTorch, Biopython)  
@@ -19,11 +19,8 @@ My goal is to apply computational methods to health research, especially in geno
 ---
 
 ### 📂 Featured Projects
-- [dijkstra_algo](https://github.com/angelx34/dijkstra_algo) – Implemented and visualized Dijkstra’s algorithm.  
-- [toDoListApp](https://github.com/angelx34/toDoListApp) – A productivity app built with [framework/language].  
-- [comm-heat](https://github.com/angelx34/comm-heat) – Exploring C# programming with data handling.  
-- **Coming Soon:** Health data visualization dashboard – analyzing public health datasets with interactive charts.  
-- **Coming Soon:** Bioinformatics ML notebooks – clustering and predictive modeling for gene expression.  
+- [) –
+
 
 ---
 
