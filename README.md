@@ -1,7 +1,5 @@
 # Hi, I’m Angelica Brito Diaz 👋  
 
-I’m a Computer Science student passionate about **data visualization, artificial intelligence, and bioinformatics**.  
-My goal is to apply computational methods to health research, especially in genomics.
 
 ---
 
@@ -9,7 +7,7 @@ My goal is to apply computational methods to health research, especially in geno
 
 
 ### 🌱 I’m currently learning
-- **Machine Learning for bioinformatics** (scikit-learn, PyTorch, Biopython)  
+ 
 
 ---
 
@@ -25,10 +23,7 @@ My goal is to apply computational methods to health research, especially in geno
 ---
 
 ### 🛠️ Skills
-- **Programming:** Python, R, Java, C#  
-- **Data & AI:** Pandas
-- **Visualization:** Matplotlib, ggplot2  
-- **Other Tools:** Git  
+
 
 ---
 ### 📫 Connect
