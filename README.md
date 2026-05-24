@@ -27,7 +27,7 @@
 
 ---
 ### 📫 Connect
-- Email: **abritodiaz@smith.edu**  
+- Email: **abrito2311@gmail.com**  
 - LinkedIn: https://www.linkedin.com/in/angelica-brito-diaz-6a3688212/  
 
 -->
