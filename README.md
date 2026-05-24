@@ -15,8 +15,8 @@
 
 ### 📂 Featured Projects
 
- - ### Diabetes Progression Prediction
- Machine learning project using clinical data to compare Linear Regression, Random Forest, and Gradient Boosting models. Focused on interpretability, feature importance, and model comparison.
+### Diabetes Progression Prediction
+Machine learning project using clinical data to compare Linear Regression, Random Forest, and Gradient Boosting models. Focused on interpretability, feature importance, and model comparison.
 
 
 ---
