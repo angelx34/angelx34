@@ -14,8 +14,13 @@
 ---
 
 ### 📂 Featured Projects
+
 ### Diabetes Progression Prediction
 Machine learning project using clinical data to compare Linear Regression, Random Forest, and Gradient Boosting models. Focused on interpretability, feature importance, and model comparison.
+
+### Mill River Visual Analytics
+Interactive D3.js visual analytics project exploring Mill River environmental data through linked map and chart views. The project supports user-driven exploration of spatial and temporal patterns using filtering and visual encoding.
+
 
 
 ---
