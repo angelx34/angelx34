@@ -21,7 +21,11 @@ Machine learning project using clinical data to compare Linear Regression, Rando
 ### Mill River Visual Analytics
 Interactive D3.js visual analytics project exploring Mill River environmental data through linked map and chart views. The project supports user-driven exploration of spatial and temporal patterns using filtering and visual encoding.
 
+### Dijkstra Implementation
+Java implementation of Dijkstra’s shortest path algorithm.
 
+### Webpage to Host Article for Opportunity Network
+Front-end webpage project for an OppNet article written by students, focused on transforming written content into a clean, structured, and easy-to-navigate web page.
 
 ---
 
