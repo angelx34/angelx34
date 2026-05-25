@@ -31,10 +31,11 @@ Front-end webpage project for an OppNet article written by students, focused on 
 ---
 
 ### 🛠️ Skills
-**Languages:** Python, Java, R, SQL, JavaScript, HTML/CSS  
-**Tools:** Git/GitHub, Jupyter Notebook, scikit-learn, pandas, matplotlib, D3.js  
-**Areas:** Data visualization, machine learning, UX/HCI, bioinformatics, research computing
 
+- **Languages:** Python, Java, R, SQL, JavaScript, HTML/CSS
+- **Tools:** Git/GitHub, Jupyter Notebook, scikit-learn, pandas, matplotlib, D3.js
+- **Areas:** Data visualization, machine learning, UX/HCI, bioinformatics, research computing
+  
 ---
 ### 📫 Connect
 - Email: **abrito2311@gmail.com**  
